@@ -1,4 +1,4 @@
-// tests/api.test.js
+
 const axios = require('axios');
 
 describe('API Automation Test - GET Request', () => {
